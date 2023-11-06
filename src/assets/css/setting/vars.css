@@ -1,18 +1,20 @@
 :root {
     --mainEng-font: "Montserrat";
+    --mainEng2-font: "Kanit";
     --mainKor-font: "nanumSquareNeo";
     --mainNum-font: "gmarket";
+
 
     --mainBG-color: #1E3C72;
     --sub01: #3f3684;
     --sub02: #f7cfd6;
     --sub03: #b3d4f6;
-    --subBG400: #34A0A4;
-    --subBG500: #52B69A;
-    --subBG600: #76C893;
-    --subBG700: #99D98C;
-    --subBG800: #B5E48C;
-    --subBG900: #D9ED92;
+    --sub04: #31508a;
+    --sub05: #f7cfd6;
+    --sub11: #31508a;
+    --sub12: #536d9c;
+    --sub13: #6f91d1;
+    --sub14: #9bb6e9;
 
 
     --white: #ffffff;
