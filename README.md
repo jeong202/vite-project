@@ -27,7 +27,7 @@ Vite는 초기 구동 속도가 빠르며, 코드 번들링을 필요할 때만 
 - 구글 폰트 적용
 - smooth 효과 적용 https://lenis.studiofreight.com/
 - 자바스크립트 메뉴 클릭 이동 효과 적용
-- GSAP를 이용한 가로 효과
+- GSAP를 이용한 가로 효과 `npm i gsap`
 - JavaScript 모듈 기능 적용
 - 웹표준 준수를 위한 스킵 메뉴 및 aria, role 적용
 - vite 빌드 작업 `npm run build`
