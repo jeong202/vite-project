@@ -23,16 +23,18 @@ Vite는 초기 구동 속도가 빠르며, 코드 번들링을 필요할 때만 
 6. 다양한 프레임워크 지원
 비록 Evan You가 Vue.js 개발자이지만, Vite는 다른 프레임워크 및 라이브러리 (React, Svelte, 등)와도 함께 작동할 수 있습니다.
 
-## 구현 기능
+
+## 기술 스택 및 사용 도구, 구현기능
 - 구글 폰트 적용
-- smooth 효과 적용 [lenis](https://lenis.studiofreight.com/)
 - 자바스크립트 메뉴 클릭 이동 효과 적용
-- GSAP를 이용한 가로 효과 `npm i gsap`
 - JavaScript 모듈 기능 적용
 - 웹표준 준수를 위한 스킵 메뉴 및 aria, role 적용
-- vite 빌드 작업 `npm run build`
-- Netlify 배포 작업
-
+- [Vite](https://ko.legacy.reactjs.org/) 를 사용하여 사이트를 번들링하고 관리합니다.
+- [GSAP](https://greensock.com/gsap) 를 이용하여 패럴랙스 효과를 줍니다.
+- [Lenis](https://lenis.studiofreight.com/) 를 이용하여 부드러운 스크롤 효과를 구현합니다.
+- [Netlify](https://www.netlify.com/) 를 통해 사이트를 배포합니다.
+- [Git](https://git-scm.com/)[GitHub](https://github.com/) 을 사용하여 파일을 관리합니다.
+- HTML, CSS 기반으로 웹사이트의 기본 레이아웃 설계하고, 웹 표준 및 웹 접근성([ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles))을 준수하여 작업합니다.
 
 
 ## 트러블 슈팅
